@@ -167,7 +167,7 @@ Mengubah string menjadi bilangan bulat.
 console.log(parseInt('123')); // Output: 123
 /*
 2. parseFloat()
-Mengubah tipe data menjadi angka.
+Mengubah tipe data string menjadi angka.
 */
 console.log(parseFloat('45.6'))
 //output: 45.6
