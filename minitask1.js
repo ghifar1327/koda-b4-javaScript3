@@ -18,7 +18,7 @@ if (index !== -1) {
 
 
 const hotel = ['mercure', 'swiss-bellin', 'oyo'];
-let search = 'marcure';
+let search = 'mercure';
 
 let index1 = hotel.indexOf(search);
 
